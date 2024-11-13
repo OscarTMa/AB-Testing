@@ -53,7 +53,7 @@ The final section summarizes findings and interprets the results. Based on the s
 ## 4. License
 Using a permissive license such as the MIT License is recommended, as it allows others to freely use, modify, and distribute the project with attribution to the original creator.
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 oscartibaduiza@hotmail.com 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

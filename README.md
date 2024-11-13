@@ -47,13 +47,16 @@ A hypothesis test is applied to compare conversion rates between the control and
 Visualization of Results
 This section includes charts to visualize group differences, such as a bar chart for means and a histogram for distribution comparison. Visualizations provide a clearer understanding of results.
 
-## Conclusions
+## Dataset
+The dataset used is from Kaggle and contains banking-related information. This project is only for educational purposes; please refer to Kaggle for the original dataset and its licensing details.
+
+## 4. Conclusions
 The final section summarizes findings and interprets the results. Based on the statistical test, it determines whether the treatment was effective.
 
-## 4. License
+## 5. License
 Using a permissive license such as the MIT License is recommended, as it allows others to freely use, modify, and distribute the project with attribution to the original creator.
 
-Copyright (c) 2024 oscartibaduiza@hotmail.com 
+Copyright (c) 2024 Oscar Tibaduiza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -61,3 +64,6 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
+## 6. Contact
+If you have any questions or suggestions, please feel free to open an issue or contact me at oscartibaduiza@hotmail.com.

@@ -20,15 +20,15 @@ Interpretation of analysis results.
 
 The project’s folder and file structure is organized as follows:
 
-ab-testing-project/
-├── data/                   # Folder to store data files downloaded from Kaggle
-│   └── ab-testing.csv      # Downloaded dataset file
-├── notebooks/              # Folder for Jupyter or Colab notebooks
-│   └── ab_testing.ipynb    # Main A/B testing notebook
-├── results/                # Folder for storing results, graphs, and visualizations
-├── README.md               # Project overview
-├── LICENSE                 # License file (e.g., MIT)
-└── requirements.txt        # Project dependencies
+ab-testing-project/                                                                           
+├── data/                   # Folder to store data files downloaded from Kaggle                                                                           
+│   └── ab-testing.csv      # Downloaded dataset file                                                                           
+├── notebooks/              # Folder for Jupyter or Colab notebooks                                                                           
+│   └── ab_testing.ipynb    # Main A/B testing notebook                                                                           
+├── results/                # Folder for storing results, graphs, and visualizations                                                                           
+├── README.md               # Project overview                                                                           
+├── LICENSE                 # License file (MIT)                                                                           
+└── requirements.txt        # Project dependencies                                                                           
 
 ## 3. Notebook Section Explanations
 
